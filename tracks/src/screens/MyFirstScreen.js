@@ -9,9 +9,6 @@ const styles = StyleSheet.create({
 	headerStyle:{
 		fontSize: 30
 	}
-	subHeaderStyle:{
-		fontSize: 25
-	}
 });
 
 export default ComponentsScreen;
